@@ -1,6 +1,6 @@
 # Adafruit's nRF52840 Featherwing in KiCAD
 
-### Import the symbol into your local library
+### How to use the symbol
 1. Create a new KiCAD project
 2. Open the symbol editor
 
