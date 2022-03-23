@@ -9,7 +9,7 @@
     (property "Footprint" "" (id 2) (at 10.16 -24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather" (id 3) (at 10.16 -24.13 0)
+    (property "Datasheet" "https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather" (id 3) (at 22.86 -22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_description" "Adafruit nRF52840 Featherwing" (id 4) (at 0 0 0)
